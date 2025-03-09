@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VirtusF12
 - 📫 virtusf12@gmail.com
-- WebSite (http://176.113.82.195/)
+- WebSite (https://bramkov.com/)
